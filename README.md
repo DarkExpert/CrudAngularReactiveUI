@@ -1,4 +1,4 @@
-# SDWroxUserInterface Deployment Steps
+# UserInterface Deployment Steps
 
 
 To Deploy your application in IIS follow the below steps.
